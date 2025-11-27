@@ -16,7 +16,7 @@ Original project: [RmlUi](https://github.com/mikke89/RmlUi)
 
 ```bash
 git clone <repository URL>
-cd RmlUi-WiiU
+cd librmlui
 ```
 
 2. Build
