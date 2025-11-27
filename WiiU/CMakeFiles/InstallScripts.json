@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/RmlUi-6.1/WiiU/cmake_install.cmake",
+		"D:/RmlUi-6.1/WiiU/Source/cmake_install.cmake",
+		"D:/RmlUi-6.1/WiiU/Source/Core/cmake_install.cmake",
+		"D:/RmlUi-6.1/WiiU/Source/Core/Elements/cmake_install.cmake",
+		"D:/RmlUi-6.1/WiiU/Source/Core/Layout/cmake_install.cmake",
+		"D:/RmlUi-6.1/WiiU/Source/Core/FontEngineDefault/cmake_install.cmake",
+		"D:/RmlUi-6.1/WiiU/Source/Debugger/cmake_install.cmake",
+		"D:/RmlUi-6.1/WiiU/Samples/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
